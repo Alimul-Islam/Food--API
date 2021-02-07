@@ -1,0 +1,9 @@
+#appendElement div{
+    width: 25%;
+    float: left;
+    padding: 15px 15px; 
+} 
+#appendElement div div{
+    width: 100%;
+    padding: 0px;
+}
